@@ -1,0 +1,8 @@
+C:\Raro\Meta.Escola.ApplicationCore\obj\Debug\netstandard2.0\Meta.Escola.ApplicationCore.AssemblyInfoInputs.cache
+C:\Raro\Meta.Escola.ApplicationCore\obj\Debug\netstandard2.0\Meta.Escola.ApplicationCore.AssemblyInfo.cs
+C:\Raro\Meta.Escola.ApplicationCore\obj\Debug\netstandard2.0\Meta.Escola.ApplicationCore.csprojAssemblyReference.cache
+C:\Raro\Meta.Escola.ApplicationCore\bin\Debug\netstandard2.0\Meta.Escola.ApplicationCore.deps.json
+C:\Raro\Meta.Escola.ApplicationCore\bin\Debug\netstandard2.0\Meta.Escola.ApplicationCore.dll
+C:\Raro\Meta.Escola.ApplicationCore\bin\Debug\netstandard2.0\Meta.Escola.ApplicationCore.pdb
+C:\Raro\Meta.Escola.ApplicationCore\obj\Debug\netstandard2.0\Meta.Escola.ApplicationCore.dll
+C:\Raro\Meta.Escola.ApplicationCore\obj\Debug\netstandard2.0\Meta.Escola.ApplicationCore.pdb

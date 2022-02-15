@@ -1,0 +1,4 @@
+C:\Raro\Raro.Locadora\obj\Debug\netcoreapp3.1\Raro.Locadora.Api.csprojAssemblyReference.cache
+C:\Raro\Raro.Locadora\obj\Debug\netcoreapp3.1\Raro.Locadora.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Raro\Raro.Locadora\obj\Debug\netcoreapp3.1\Raro.Locadora.Api.AssemblyInfoInputs.cache
+C:\Raro\Raro.Locadora\obj\Debug\netcoreapp3.1\Raro.Locadora.Api.AssemblyInfo.cs

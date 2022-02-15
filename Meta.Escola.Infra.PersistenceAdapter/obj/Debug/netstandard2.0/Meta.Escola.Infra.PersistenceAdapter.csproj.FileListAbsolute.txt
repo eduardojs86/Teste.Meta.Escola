@@ -1,0 +1,11 @@
+C:\Raro\Meta.Escola.Infra.PersistenceAdapter\obj\Debug\netstandard2.0\Meta.Escola.Infra.PersistenceAdapter.AssemblyInfoInputs.cache
+C:\Raro\Meta.Escola.Infra.PersistenceAdapter\obj\Debug\netstandard2.0\Meta.Escola.Infra.PersistenceAdapter.AssemblyInfo.cs
+C:\Raro\Meta.Escola.Infra.PersistenceAdapter\obj\Debug\netstandard2.0\Meta.Escola.Infra.PersistenceAdapter.csprojAssemblyReference.cache
+C:\Raro\Meta.Escola.Infra.PersistenceAdapter\bin\Debug\netstandard2.0\Meta.Escola.Infra.PersistenceAdapter.deps.json
+C:\Raro\Meta.Escola.Infra.PersistenceAdapter\bin\Debug\netstandard2.0\Meta.Escola.Infra.PersistenceAdapter.dll
+C:\Raro\Meta.Escola.Infra.PersistenceAdapter\bin\Debug\netstandard2.0\Meta.Escola.Infra.PersistenceAdapter.pdb
+C:\Raro\Meta.Escola.Infra.PersistenceAdapter\bin\Debug\netstandard2.0\Meta.Escola.ApplicationCore.dll
+C:\Raro\Meta.Escola.Infra.PersistenceAdapter\bin\Debug\netstandard2.0\Meta.Escola.ApplicationCore.pdb
+C:\Raro\Meta.Escola.Infra.PersistenceAdapter\obj\Debug\netstandard2.0\Meta.Escola.Infra.PersistenceAdapter.csproj.CopyComplete
+C:\Raro\Meta.Escola.Infra.PersistenceAdapter\obj\Debug\netstandard2.0\Meta.Escola.Infra.PersistenceAdapter.dll
+C:\Raro\Meta.Escola.Infra.PersistenceAdapter\obj\Debug\netstandard2.0\Meta.Escola.Infra.PersistenceAdapter.pdb
